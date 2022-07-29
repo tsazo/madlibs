@@ -1,6 +1,3 @@
-from matplotlib.pyplot import title
-
-
 title = "Fitness Tips!"
 print("Theme: " + title)
 
@@ -40,7 +37,7 @@ madlib = f"""
   difficult, you can keep your {pn1} on the floor for help. Either way, you're
   going to feel the burn! \n
   \033[1m Legs: \033[0m Muscular thighs and {food1}-size butts are totally in
-  right now! For {adj3} resutls, add squats and lunges into your daily routine. 
+  right now! For {adj3} results, add squats and lunges into your daily routine. 
   When squatting, make sure your {body3} gets below your knees for the full
   range of motion. To amp up your workout, add some weight to both movements.
   Hold a pair of {pn2} or grab the family {animal}. Then squat and lunge your
